@@ -1,0 +1,11 @@
+# Responsable global del repositorio
+* fdematt_
+# Código fuente
+/src/ fdematt_
+/scripts/ fdematt_
+# Tests
+/tests/ fdematt_
+# Documentación
+/docs/ fdematt_
+# Workflows y configuración de GitHub
+/.github/ fdematt_
